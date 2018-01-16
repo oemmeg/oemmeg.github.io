@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Coding v. Creative
 header-img: img/home-bg.png
 email: empdewitt@gmail.com
 copyright_name: oemmeg
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One writer's journey from novels to nodes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  oemmeg
